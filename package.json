@@ -1,5 +1,5 @@
 {
-  "name": "transform-text",
+  "name": "text-transformer",
   "version": "1.0.2",
   "description": "Простий модуль для перетворення тексту",
   "main": "index.js",
