@@ -1,6 +1,6 @@
 {
   "name": "text-transformer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Простий модуль для перетворення тексту",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Ваше ім'я",
   "license": "ISC",
+  "dependencies": {
+    "lodash": "4.17.21"
+  },
+
   "repository": {
     "type": "git",
     "url": "https://github.com/517Indigo777/transform-text.git"
